@@ -1,0 +1,14 @@
+c:\Users\zion.falk\Programming2\Modellering\Modellering\bin\Debug\net8.0\Modellering.exe
+c:\Users\zion.falk\Programming2\Modellering\Modellering\bin\Debug\net8.0\Modellering.deps.json
+c:\Users\zion.falk\Programming2\Modellering\Modellering\bin\Debug\net8.0\Modellering.runtimeconfig.json
+c:\Users\zion.falk\Programming2\Modellering\Modellering\bin\Debug\net8.0\Modellering.dll
+c:\Users\zion.falk\Programming2\Modellering\Modellering\bin\Debug\net8.0\Modellering.pdb
+c:\Users\zion.falk\Programming2\Modellering\Modellering\obj\Debug\net8.0\Modellering.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\zion.falk\Programming2\Modellering\Modellering\obj\Debug\net8.0\Modellering.AssemblyInfoInputs.cache
+c:\Users\zion.falk\Programming2\Modellering\Modellering\obj\Debug\net8.0\Modellering.AssemblyInfo.cs
+c:\Users\zion.falk\Programming2\Modellering\Modellering\obj\Debug\net8.0\Modellering.csproj.CoreCompileInputs.cache
+c:\Users\zion.falk\Programming2\Modellering\Modellering\obj\Debug\net8.0\Modellering.dll
+c:\Users\zion.falk\Programming2\Modellering\Modellering\obj\Debug\net8.0\refint\Modellering.dll
+c:\Users\zion.falk\Programming2\Modellering\Modellering\obj\Debug\net8.0\Modellering.pdb
+c:\Users\zion.falk\Programming2\Modellering\Modellering\obj\Debug\net8.0\Modellering.genruntimeconfig.cache
+c:\Users\zion.falk\Programming2\Modellering\Modellering\obj\Debug\net8.0\ref\Modellering.dll
